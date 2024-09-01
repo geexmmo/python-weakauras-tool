@@ -1,6 +1,6 @@
 bin/
 include/
-lib*/
+./lib*/
 __*/
 wa-example.txt
 pyvenv.cfg
