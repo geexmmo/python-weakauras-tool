@@ -1,7 +1,7 @@
-/bin
-/include
-/lib*
-/__*
+bin/
+include/
+lib*/
+__*/
 wa-example.txt
 pyvenv.cfg
 *.json
